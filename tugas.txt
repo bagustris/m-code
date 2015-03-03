@@ -1,0 +1,11 @@
+tugas1: Mencari akar-akar persamaan kuadrat
+    fungsi yang digunakan: input, if, disp
+tugas2: Display persentase belajar dari persamaan exponensial
+    fungsi yang digunakan: clock, disp, exp, num2str
+tugas3: x
+
+
+demo
+demo1: nilai.m
+demo2: akar.m (pembahasan tugas2)
+demo3: 
