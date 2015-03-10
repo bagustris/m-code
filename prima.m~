@@ -1,0 +1,19 @@
+% prima.m: mengecek bilangan prima
+
+n=input('Masukkan bilangan: ');
+k=1:n-1;
+
+if n < 2
+    disp([num2str(n) ' bukan bilangan prima']);
+elseif n/2==0
+    disp([num2str(n) ' bukan bilangan prima ']);
+elseif rem(n,k)==0,
+    for k=1:n-1,
+        if rem(k,1)==1
+            rem(n,
+        end
+    end
+else
+    disp([num2str(n) ' bilangan prima ']);
+end
+    
