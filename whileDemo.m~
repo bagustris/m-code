@@ -1,9 +1,0 @@
-% whileDemo.m
-
-n= input('Masukkan bilangan: ');
-true=
-while (true);
-    for i=1:n; % ganti dengan false
-        disp('helloworld');
-    end
-end

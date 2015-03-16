@@ -1,4 +1,0 @@
-n1=input('N1: ');
-n2=input('N2: ');
-
-if n1 > n2

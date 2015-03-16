@@ -1,13 +1,13 @@
-% fungsibintang.m : fungsibintan(n)
+% fungsibintang.m : fungsibintang(n)
 
 function [] = fungsibintang(n)
-for r = 1:n
+for i = 1:n
     % print spaces
-    for c = 1:n-r
+    for j = 1:n-i
     fprintf(' ');
     end
     % print stars
-    for c = 1:r
+    for j = 1:i
     fprintf('*');   
     end
 fprintf('\n');

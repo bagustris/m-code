@@ -1,4 +1,4 @@
-% bintang0.m: miring-miring-miring
+% bintang0.m: membentuk pola bintang dan 0  
 % bagustris@yahoo.com
 
 clear all; close all;
