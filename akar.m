@@ -1,4 +1,4 @@
-% akar.m 
+  % akar.m 
 % program untuk mencari akar-akar persamaan kuadrat
 
 close all; clear all; clc;
