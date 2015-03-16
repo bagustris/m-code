@@ -1,4 +1,4 @@
-% doDemo.m: demoed do-while
+% doDemo.m: demoed do-while, works on octave only
 
 n=input('Masukkan angka 1-10: ');
 
