@@ -4,8 +4,7 @@ function [mean, stdev] = stat(x)
 % [mean, stdev] = stat(x) menampilkan mean dan standard deviasi
 % Untuk matrix x, stat(x) acts columnwise.
 [m n] = size(x);
-if m == 1
-m = n;
+
 % menghandle case row vector
 end
 mean = sum(x)/m;

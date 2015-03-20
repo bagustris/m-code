@@ -1,5 +1,7 @@
 % fungsibintang.m : fungsibintang(n)
-
+% fungsi untuk menampilkan bintang
+% n = input
+% [] = output
 function [] = fungsibintang(n)
 for i = 1:n
     % print spaces
