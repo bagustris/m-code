@@ -1,4 +1,6 @@
-#Resources kuliah Pemrograman Komputer, Teknik Fisika ITS Suraba
+#Resources kuliah Pemrograman Komputer
+Teknik Fisika ITS Surabaya
+
 Matlab/Octave code for comp programming with maltab
 designed for undergrad student, eng physics ITS
 
