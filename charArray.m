@@ -1,0 +1,12 @@
+A = ' This is Test String #1! '
+B = A(1:5)              % extract the first 5 characters
+C = [A ; A]             % concatenate vertically
+D = repmat('@!',2,5)    % replicate char arrays, just like numeric ones
+E = 'z':-1:'a'          % create the matrices just like numeric ones.
+check = ischar(A)       % is it a char array?
+F = isletter(A(1:6))    % which characters are letters? - returns a logical array
+G = isspace(A(1:6))     % which characters are spaces? - returns a logical array
+H = upper(A)            % convert to upper case
+I = lower(A)            % convert to lower case
+J = strtrim(A)          % trim leading and trailing blank spaces.
+K = deblank(A)          % trim trailing blank spaces only.
